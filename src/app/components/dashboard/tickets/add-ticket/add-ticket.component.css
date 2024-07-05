@@ -1,0 +1,11 @@
+#new-ticket {
+    width: 15rem;
+  }
+  form{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    p{
+      margin-top: 20px;
+    }
+}

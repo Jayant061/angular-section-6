@@ -1,0 +1,14 @@
+p{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 5px;
+    input,textarea{
+        border: 1px dashed gray;
+        outline: none;
+        padding-left: 10px;
+    }
+    input{
+        padding: 5px;
+    }
+}
